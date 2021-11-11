@@ -1,6 +1,6 @@
 ## Hello! I'm Nicholas
 
-*I'm Always Learning 😎*
+*I'm Always Learning* 😎
 
 ### My Main Programming Languages
 <div style='display: inline_block'><br>
