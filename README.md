@@ -1,6 +1,6 @@
 ## Hello! I'm Nicholas
 
-*I'm Always Learning* 💙
+*I'm Always Learning*
 
 <div style='display: inline_block'>
 <h3>Main technologies:</h3>
