@@ -12,9 +12,8 @@
 </div>
 
 <div>
-  <h3>Code Editors:</h3>
+  <h3>Code Editor:</h3>
   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
 
 <hr>
